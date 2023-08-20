@@ -1,4 +1,4 @@
-# wp_subscription_pay
+# wp_subscription_pay_user_creation_on_order
 
 - create a function to hook into an order creation event.
 - Parse the subscription object as a parameter to the function
